@@ -1,0 +1,11 @@
+/home/daniel/ramdomNumber/bin/Debug/netcoreapp2.1/ramdomNumber.deps.json
+/home/daniel/ramdomNumber/bin/Debug/netcoreapp2.1/ramdomNumber.runtimeconfig.json
+/home/daniel/ramdomNumber/bin/Debug/netcoreapp2.1/ramdomNumber.runtimeconfig.dev.json
+/home/daniel/ramdomNumber/bin/Debug/netcoreapp2.1/ramdomNumber.dll
+/home/daniel/ramdomNumber/bin/Debug/netcoreapp2.1/ramdomNumber.pdb
+/home/daniel/ramdomNumber/obj/Debug/netcoreapp2.1/ramdomNumber.csprojAssemblyReference.cache
+/home/daniel/ramdomNumber/obj/Debug/netcoreapp2.1/ramdomNumber.csproj.CoreCompileInputs.cache
+/home/daniel/ramdomNumber/obj/Debug/netcoreapp2.1/ramdomNumber.AssemblyInfoInputs.cache
+/home/daniel/ramdomNumber/obj/Debug/netcoreapp2.1/ramdomNumber.AssemblyInfo.cs
+/home/daniel/ramdomNumber/obj/Debug/netcoreapp2.1/ramdomNumber.dll
+/home/daniel/ramdomNumber/obj/Debug/netcoreapp2.1/ramdomNumber.pdb
